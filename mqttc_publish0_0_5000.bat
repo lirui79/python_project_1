@@ -1,0 +1,1 @@
+python mqttpublisher_tm.py 172.16.3.126 1883 token  v1/devices/me/telemetry data:1231 0 5000 > 1.log
